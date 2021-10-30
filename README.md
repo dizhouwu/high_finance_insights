@@ -1,4 +1,4 @@
-# prop_hf_tech_blog
+# A curated list of blogs/insights from High Finance
 Two Sigma: https://www.twosigma.com/insights/
 
 HRT: https://www.hudsonrivertrading.com/hrtbeat/
