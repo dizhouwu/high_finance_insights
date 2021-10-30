@@ -1,12 +1,14 @@
 # A curated list of blogs/insights from High Finance
-Two Sigma: https://www.twosigma.com/insights/
+1. Two Sigma: https://www.twosigma.com/insights/
 
-HRT: https://www.hudsonrivertrading.com/hrtbeat/
+2. HRT: https://www.hudsonrivertrading.com/hrtbeat/
 
-Headlands: https://blog.headlandstech.com/
+3. Headlands: https://blog.headlandstech.com/
 
-Jane St: https://blog.janestreet.com/
+4. Jane St: https://blog.janestreet.com/
 
-G-Research: https://www.gresearch.co.uk/news/
+5. G-Research: https://www.gresearch.co.uk/news/
 
-Winton: https://www.winton.com/insights
+6. Winton: https://www.winton.com/insights
+
+7. JP Morgan: https://www.jpmorgan.com/technology/technology-blog
