@@ -12,3 +12,5 @@
 6. Winton: https://www.winton.com/insights
 
 7. JP Morgan: https://www.jpmorgan.com/technology/technology-blog
+
+8. Man Group: https://www.man.com/insights
