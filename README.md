@@ -1,4 +1,5 @@
 # A curated list of blogs/insights from High Finance
+
 1. Two Sigma: https://www.twosigma.com/insights/
 
 2. HRT: https://www.hudsonrivertrading.com/hrtbeat/
@@ -14,3 +15,5 @@
 7. JP Morgan: https://www.jpmorgan.com/technology/technology-blog
 
 8. Man Group: https://www.man.com/insights
+
+9. Clear Street: https://medium.com/clear-street
