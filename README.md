@@ -17,3 +17,5 @@
 8. Man Group: https://www.man.com/insights
 
 9. Clear Street: https://medium.com/clear-street
+
+10. Capital Fund Management: https://medium.com/capital-fund-management
