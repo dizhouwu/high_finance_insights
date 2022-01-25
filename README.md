@@ -19,3 +19,5 @@
 9. Clear Street: https://medium.com/clear-street
 
 10. Capital Fund Management: https://medium.com/capital-fund-management
+
+11. Refinitiv: https://developers.refinitiv.com/en/article-catalog
