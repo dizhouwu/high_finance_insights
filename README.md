@@ -21,3 +21,5 @@
 10. Capital Fund Management: https://medium.com/capital-fund-management
 
 11. Refinitiv: https://developers.refinitiv.com/en/article-catalog
+
+12. Bloomberg: https://www.bloomberg.com/professional/
